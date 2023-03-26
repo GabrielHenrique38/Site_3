@@ -1,0 +1,80 @@
+
+      
+      h2 {
+        font-size: large;
+        color: rgb(0, 0, 0)6;
+        font-weight: bold;
+      }
+      
+    .Italico {
+      font-style: italic;
+
+    }
+      #menulist {
+
+       float: left; 
+      }
+      .menuitem {
+        font-size: small;
+        border: 8px solid #f3f3ec;
+        border-radius: 10px;
+        background-color: #f3f3ec;
+        padding: 0px 5px 0px 20px ;
+        margin: 5px;
+        width: 250px;
+        list-style-type: none;
+       }
+
+       a:link {
+        text-decoration: none;
+        color: green;
+
+       }
+
+      .insc {
+        border: 8px solid #f3f3ec;
+        border-radius: 10px;
+        background-color: #f3f3ec;
+      }
+      
+      .Titulo {
+        color: green;
+          
+      }
+
+      .caixa {
+        background-color: #f3f3ec;
+        margin-left: 357px;
+        padding: 20px 10px 80px 20px;
+        border: #f3f3ec solid;
+
+      }
+
+      .caixa p {
+        font-size: medium;
+        text-align: left;
+        margin-bottom: 25px;
+        
+
+      }
+
+      .textoFinal {
+        font-size: small;
+        float: right;
+        margin-bottom: 25px;
+        padding: 5px;
+      }
+
+      .display {
+        background-color: rgb(0, 0, 0);
+        width: 99%;
+        padding: 20px;
+      }
+      
+      .display p {
+        text-align: center;
+        font-size:180%;
+        color: #1aa021;
+      }
+      
+    
